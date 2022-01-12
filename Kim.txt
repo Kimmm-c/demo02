@@ -1,1 +1,2 @@
 Hello from Kim.
+Goodbye from Kim
